@@ -1,0 +1,26 @@
+<svg width="390" height="98" viewBox="0 0 390 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cy="45" r="15" fill="#27730F"/>
+<circle cx="240" cy="45" r="15" fill="#27730F"/>
+<circle cx="120" cy="45" r="15" fill="#27730F"/>
+<circle cx="300" cy="45" r="15" fill="#27730F"/>
+<circle cx="180" cy="45" r="15" fill="#27730F"/>
+<circle cx="390" cy="45" r="15" fill="#27730F"/>
+<circle cx="30" cy="45" r="15" fill="#27730F"/>
+<circle cx="270" cy="45" r="15" fill="#27730F"/>
+<circle cx="150" cy="45" r="15" fill="#27730F"/>
+<circle cx="360" cy="45" r="15" fill="#27730F"/>
+<circle cx="90" cy="45" r="15" fill="#27730F"/>
+<circle cx="330" cy="45" r="15" fill="#27730F"/>
+<circle cx="210" cy="45" r="15" fill="#27730F"/>
+<rect x="45" width="30" height="60" rx="15" fill="#287410"/>
+<rect x="345" width="30" height="60" rx="15" fill="#287410"/>
+<rect x="315" y="18" width="30" height="42" rx="15" fill="#287410"/>
+<path d="M0 95H390V45H0V95Z" fill="url(#paint0_radial_11_26)"/>
+<path d="M0 92.5H390V97.5H0V92.5Z" fill="#6B4B31"/>
+<defs>
+<radialGradient id="paint0_radial_11_26" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(195 70) rotate(-90) scale(18.75 121.296)">
+<stop stop-color="#6FBC39"/>
+<stop offset="1" stop-color="#26720E"/>
+</radialGradient>
+</defs>
+</svg>
